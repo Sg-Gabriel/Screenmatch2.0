@@ -1,7 +1,8 @@
-## 📸 Demonstração
+### Tela inicial
+![Home](./assets/tela-inicial.png)
 
-![Preview do projeto](./assets/tela-inicial.png)
-
+### Detalhes
+![Detalhes](./assets/sobre.png)
 
 # 🎬 Screenmatch 2.0
 
