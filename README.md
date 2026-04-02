@@ -1,8 +1,3 @@
-### Tela inicial
-![Home](./assets/tela-inicial.png)
-
-### Detalhes
-![Detalhes](./assets/sobre.png)
 
 # 🎬 Screenmatch 2.0
 
@@ -26,7 +21,7 @@ O sistema foi desenvolvido com foco em **boas práticas de arquitetura backend**
 
 ---
 
-## 🧠 Funcionalidades
+
 
 ### 🔙 Backend (API REST)
 
@@ -50,6 +45,12 @@ O sistema foi desenvolvido com foco em **boas práticas de arquitetura backend**
 * Requisições paralelas com `Promise.all`
 
 ---
+
+### Tela inicial
+![Home](./assets/tela-inicial.png)
+
+### Detalhes
+![Detalhes](./assets/sobre.png)
 
 ## 🔗 Endpoints da API
 
