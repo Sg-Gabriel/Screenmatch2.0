@@ -1,3 +1,8 @@
+## 📸 Demonstração
+
+![Preview do projeto](./assets/tela-inicial.png)
+
+
 # 🎬 Screenmatch 2.0
 
 Aplicação **Full Stack** para gerenciamento e visualização de séries, temporadas e episódios, construída com **Spring Boot (backend)** e **JavaScript (frontend)**.
