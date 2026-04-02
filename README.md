@@ -73,6 +73,7 @@ GET /series/{id}/temporadas/top
 
 * Java 17+
 * Spring Boot
+* PostgreSQL
 * Spring Data JPA
 * Hibernate
 * Maven
